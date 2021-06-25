@@ -37,7 +37,7 @@ Gem::Specification.new do |s|
   s.add_dependency 'concurrent-ruby', '~> 1.1'
   s.add_dependency 'faraday', '~> 1.0'
   s.add_dependency 'json', '~> 2.2'
-  s.add_dependency 'countries', '~>3.0'
+  s.add_dependency 'countries', '~> 1.2'
   s.add_dependency 'money', '~> 6.13'
 
   s.add_development_dependency 'awesome_print', '~> 1.8'
