@@ -50,7 +50,7 @@ Gem::Specification.new do |s|
   s.add_development_dependency 'rake', '~> 13.0'
   s.add_development_dependency 'rspec', '~> 3.8'
   s.add_development_dependency 'rubocop', '~> 0.71'
-  s.add_development_dependency 'countries', '~>3.0'
+  s.add_development_dependency 'countries', '~> 1.2'
   s.add_development_dependency 'money', '~> 6.13'
 
   s.files = Dir['LICENSE.txt', 'README.md', 'lib/**/*', 'bin/*']
